@@ -1,0 +1,20 @@
+.calculator_parent{
+    width: 100%;
+    height: 100%;
+}
+.calculator{
+    width: 30%;
+    height: 400px;
+    border: 1px solid black;
+}
+.numbers{
+    width: 80%;
+
+}
+button{
+    /* display: flex; */
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+    border-radius: 50px;
+}
